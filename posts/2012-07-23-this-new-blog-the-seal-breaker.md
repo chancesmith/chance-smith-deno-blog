@@ -1,6 +1,7 @@
 ---
 title: "This New Blog: The Seal Breaker"
 publish_date: 2012-07-23
+summary: Ice breaker
 ---
 
 My mind has been bursting at the seams and so has my Evernote account.
