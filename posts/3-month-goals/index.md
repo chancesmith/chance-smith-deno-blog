@@ -2,7 +2,7 @@
 layout: post
 title: "Helping The Team With 3 Month Goals
 "
-date: "2023-03-08T08Z"
+publish_date: 2023-03-08
 tags: ["leadership", "sodium halogen"]
 ---
 

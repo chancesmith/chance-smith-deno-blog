@@ -1,6 +1,6 @@
 ---
 title: "One-Liner ADR"
-publish_date: 2023-08-25T22Z
+publish_date: 2023-08-25
 tags: ["process"]
 ---
 

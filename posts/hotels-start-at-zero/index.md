@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Focus: Hotels Start At Zero"
-date: 2023-05-14T22Z
+publish_date: 2023-05-14
 tags: ["zero", "productivity"]
 ---
 

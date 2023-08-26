@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Get Hired: from Zero to Hero in One Blog Post"
-date: "2020-06-07T08Z"
+publish_date: 2020-06-07
 tags: ["career"]
 ---
 

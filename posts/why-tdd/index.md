@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why TDD?"
-date: "2021-02-06T08Z"
+publish_date: 2021-02-06
 tags: ["development", "testing", "sodium halogen"]
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Practice Empathy By Watching"
-date: 2023-06-14T22Z
-tags: ["developemnt", "software", "creating"]
+publish_date: 2023-06-14
+tags: ["development", "software", "creating"]
 ---
 
 Watching people use what you've built is amazing and way underrated!

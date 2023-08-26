@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prepared"
-date: "2021-04-02T08Z"
+publish_date: 2021-04-02
 ---
 
 "To make ready beforehand." - dictionary
@@ -32,7 +32,7 @@ Retirement (save 20-50%, ROTH, 401K, assets)
 
 Pay cash.
 
-## What if ____?
+## What if \_\_\_\_?
 
 Get ready beforehand.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quarterly Team Member Checkups"
-date: 2023-05-18T22Z
+publish_date: 2023-05-18
 tags: ["sodium halogen", "leadership"]
 ---
 

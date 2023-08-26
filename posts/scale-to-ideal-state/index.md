@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Goals: Scale to Ideal State"
-date: "2023-04-10T08Z"
+publish_date: 2023-04-10
 tags: ["discipline", "goals"]
 ---
 

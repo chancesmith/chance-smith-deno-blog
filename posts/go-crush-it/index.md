@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Go Crush it"
-date: 2023-06-15T22Z
+publish_date: 2023-06-15
 tags: ["productivity"]
 ---
 

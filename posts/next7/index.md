@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Better understand your next steps"
-date: 2023-07-20T22Z
+publish_date: 2023-07-20
 tags: ["productivity", "leadership"]
 ---
 

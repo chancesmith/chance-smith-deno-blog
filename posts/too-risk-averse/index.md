@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Too Risk-Averse"
-date: 2023-05-15T22Z
+publish_date: 2023-05-15
 ---
 
 Our second son asks for help every time he plays a game. I ask if there is any danger if he fails.

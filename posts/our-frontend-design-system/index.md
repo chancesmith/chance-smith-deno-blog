@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Our Frontend Design System"
-date: "2021-07-20T08Z"
+publish_date: 2021-07-20
 tags: ["development", "sodium halogen"]
 ---
 

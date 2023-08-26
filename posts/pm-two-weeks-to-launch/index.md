@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Management: two weeks to launch sprint"
-date: "2022-11-20T08Z"
+publish_date: 2022-11-20
 tags: ["project management", "development", "sodium halogen", "agile"]
 ---
 

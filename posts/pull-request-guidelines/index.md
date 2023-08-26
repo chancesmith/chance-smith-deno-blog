@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pull Request Guidelines"
-date: 2023-04-30T22Z
+publish_date: 2023-04-30
 tags: ["development"]
 ---
 

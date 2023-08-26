@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploring: Native App Testing with Maestro"
-date: "2023-03-20T08Z"
+publish_date: 2023-03-20
 tags: ["development", "sodium halogen"]
 ---
 

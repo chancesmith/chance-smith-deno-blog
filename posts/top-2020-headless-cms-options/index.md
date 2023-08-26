@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2020 Headless CMS options
-date: "2020-05-01T08Z"
+publish_date: 2020-05-01
 tags: ["research"]
 ---
 

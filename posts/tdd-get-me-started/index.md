@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TDD: Get me started"
-date: "2021-04-05T08Z"
+publish_date: 2021-04-05
 tags: ["development", "testing", "sodium halogen"]
 ---
 

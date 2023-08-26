@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Testing Guides"
-date: "2023-01-26T08Z"
+publish_date: 2023-01-26
 tags: ["development"]
 ---
 
