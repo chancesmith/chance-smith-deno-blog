@@ -1,6 +1,6 @@
 ![](../posts/screenshot.png)
 
-# Ryan's Blog
+# Chance Smith's Blog
 
 To get it running:
 
