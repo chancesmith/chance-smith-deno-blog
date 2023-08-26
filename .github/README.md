@@ -1,5 +1,3 @@
-![](../posts/screenshot.png)
-
 # Chance Smith's Blog
 
 To get it running:
